@@ -11,7 +11,7 @@ I have been teaching myself how to code via many online
 courses and YouTube videos. I've also been learning 
 everything I can about development from UX/UI to QA.
 
-Working in a agile environment is my goal
+Working in an agile environment is my goal
 and I wanted to create a website to 
 highlight who I am and what I can do. 
 Instead of working off a pre-determined 
