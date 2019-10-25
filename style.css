@@ -106,7 +106,7 @@ padding: 0;
 /* Title Start */
 
 .bg-title {
-  background-image:  linear-gradient(to top, rgba(255, 255, 255, .2), rgba(25, 29, 50, 2)), url('/portfolio/images/hawaii.jpg');
+  background-image:  linear-gradient(to top, rgba(255, 255, 255, .2), rgba(25, 29, 50, 2)), url('../images/hawaii.jpg');
   background position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -389,7 +389,7 @@ color: #FBFEF9;
 
   .parallax {
     /* The image used */
-    background-image: url('/portfolio/images/TVQuoteXS.png');
+    background-image: url('../images/TVQuoteXS.png');
   
     /* Set a specific height */
     height: 600px;
@@ -404,7 +404,7 @@ color: #FBFEF9;
 
 .parallax2 {
   /* The image used */
-  background-image: url('/portfolio/images/sailboatretro22EX6.png');
+  background-image: url('../images/sailboatretro22EX6.png');
 
   /* Set a specific height */
   height: 600px;
@@ -428,7 +428,7 @@ color: #FBFEF9;
 
 .parallax {
   /* The image used */
-  background-image: url('/portfolio/images/TVQuoteSmaller.png');
+  background-image: url('../images/TVQuoteSmaller.png');
 
   /* Set a specific height */
   height: 600px;
@@ -443,7 +443,7 @@ color: #FBFEF9;
 
 .parallax2 {
   /* The image used */
-  background-image: url('/portfolio/images/sailboatretro22EX6.png');
+  background-image: url('../images/sailboatretro22EX6.png');
 
   /* Set a specific height */
   height: 600px;
@@ -465,7 +465,7 @@ color: #FBFEF9;
 
 .parallax {
   /* The image used */
-  background-image: url('/portfolio/images/TVQuoteSmall.png');
+  background-image: url('../images/TVQuoteSmall.png');
 
   /* Set a specific height */
   height: 600px;
@@ -480,7 +480,7 @@ color: #FBFEF9;
 
 .parallax2 {
   /* The image used */
-  background-image: url('/portfolio/images/sailboatretro25Large.png');
+  background-image: url('../images/sailboatretro25Large.png');
 
   /* Set a specific height */
   height: 600px;
@@ -505,7 +505,7 @@ color: #FBFEF9;
 
 .parallax {
   /* The image used */
-  background-image: url('/portfolio/images/TVQuoteLarge.png');
+  background-image: url('../images/TVQuoteLarge.png');
 
   /* Set a specific height */
   height: 600px;
@@ -520,7 +520,7 @@ color: #FBFEF9;
 
 .parallax2 {
   /* The image used */
-  background-image: url('/portfolio/images/sailboatretro25Large.png');
+  background-image: url('../images/sailboatretro25Large.png');
 
   /* Set a specific height */
   height: 600px;
@@ -543,7 +543,7 @@ color: #FBFEF9;
 
 .parallax {
   /* The image used */
-  background-image: url('/portfolio/images/TVQuote.png');
+  background-image: url('../images/TVQuote.png');
 
   /* Set a specific height */
   height: 600px;
@@ -558,7 +558,7 @@ color: #FBFEF9;
 
 .parallax2 {
   /* The image used */
-  background-image: url('/portfolio/images/sailboatretro25Large.png');
+  background-image: url('../images/sailboatretro25Large.png');
 
   /* Set a specific height */
   height: 600px;
