@@ -107,7 +107,7 @@ padding: 0;
 
 .bg-title {
   background-image:  linear-gradient(to top, rgba(255, 255, 255, .2), rgba(25, 29, 50, 2)), url('../images/hawaii.jpg');
-  background position: center center;
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
