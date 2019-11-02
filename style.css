@@ -70,36 +70,7 @@ padding: 0;
 }
 
 
-/* Navbar Start */
 
-.navbar-position-fixed {
-  position: fixed;
-  width: 100vw;
-  z-index: 100;
-  padding-top: 1rem;
-  padding-bottom: .5rem;
-}
-
-.navbar-size {
-  width: 50px; 
-  height: 50px;
-}
-
-.navbar-bg {
-  background-image: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(25, 29, 50, 1));
-}
-
-.btn:focus, .btn:active {
-  outline: none !important;
-  box-shadow: none !important;
-  -webkit-box-shadow: none
-}
-
-.tv-icon {
-  margin: 0 1em;
-}
-
-/* Navbar End */
 
 
 
@@ -395,22 +366,20 @@ color: #FBFEF9;
     height: 600px;
   
     /* Create the parallax scrolling effect */
-    background-attachment: fixed;
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
   }
 
 
 .parallax2 {
   /* The image used */
-  background-image: url('../images/sailboatretro22EX6.png');
+  background-image: url('../images/sailboatretro22EX7.png');
 
   /* Set a specific height */
-  height: 500px;
+  height: 400px;
 
   /* Create the parallax scrolling effect */
-  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: auto;
@@ -420,9 +389,38 @@ color: #FBFEF9;
   margin-right: 1.25rem;
 }
 
-.navbar-bg {
-  background-image: linear-gradient(to top, rgba(255, 255, 255, .5), rgba(25, 29, 50, 1));
+
+
+/* Navbar Start */
+
+.navbar-position {
+  position: relative;
+  width: 100vw;
+  z-index: 100;
+  padding-top: 1rem;
+  padding-bottom: .5rem;
 }
+
+.navbar-size {
+  width: 50px; 
+  height: 50px;
+}
+
+.navbar-bg {
+  background-image: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(25, 29, 50, 1));
+}
+
+.btn:focus, .btn:active {
+  outline: none !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none
+}
+
+.tv-icon {
+  margin: 0 1em;
+}
+
+/* Navbar End */
 
 }
 
@@ -474,6 +472,37 @@ color: #FBFEF9;
   padding-left: 1rem;
 }
 
+/* Navbar Start */
+
+.navbar-position-fixed {
+  position: fixed;
+  width: 100vw;
+  z-index: 100;
+  padding-top: 1rem;
+  padding-bottom: .5rem;
+}
+
+.navbar-size {
+  width: 50px; 
+  height: 50px;
+}
+
+.navbar-bg {
+  background-image: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(25, 29, 50, 1));
+}
+
+.btn:focus, .btn:active {
+  outline: none !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none
+}
+
+.tv-icon {
+  margin: 0 1em;
+}
+
+/* Navbar End */
+
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -522,6 +551,37 @@ color: #FBFEF9;
   padding-right: 2rem;
   padding-left: 2rem;
 }
+
+/* Navbar Start */
+
+.navbar-position-fixed {
+  position: fixed;
+  width: 100vw;
+  z-index: 100;
+  padding-top: 1rem;
+  padding-bottom: .5rem;
+}
+
+.navbar-size {
+  width: 50px; 
+  height: 50px;
+}
+
+.navbar-bg {
+  background-image: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(25, 29, 50, 1));
+}
+
+.btn:focus, .btn:active {
+  outline: none !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none
+}
+
+.tv-icon {
+  margin: 0 1em;
+}
+
+/* Navbar End */
 
 
 }
@@ -574,6 +634,37 @@ color: #FBFEF9;
   padding-left: 6rem;
 }
 
+/* Navbar Start */
+
+.navbar-position-fixed {
+  position: fixed;
+  width: 100vw;
+  z-index: 100;
+  padding-top: 1rem;
+  padding-bottom: .5rem;
+}
+
+.navbar-size {
+  width: 50px; 
+  height: 50px;
+}
+
+.navbar-bg {
+  background-image: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(25, 29, 50, 1));
+}
+
+.btn:focus, .btn:active {
+  outline: none !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none
+}
+
+.tv-icon {
+  margin: 0 1em;
+}
+
+/* Navbar End */
+
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
@@ -624,6 +715,37 @@ color: #FBFEF9;
     padding-right: 12rem;
     padding-left: 12rem;
   }
+
+  /* Navbar Start */
+
+.navbar-position-fixed {
+  position: fixed;
+  width: 100vw;
+  z-index: 100;
+  padding-top: 1rem;
+  padding-bottom: .5rem;
+}
+
+.navbar-size {
+  width: 50px; 
+  height: 50px;
+}
+
+.navbar-bg {
+  background-image: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(25, 29, 50, 1));
+}
+
+.btn:focus, .btn:active {
+  outline: none !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none
+}
+
+.tv-icon {
+  margin: 0 1em;
+}
+
+/* Navbar End */
   
 
 
