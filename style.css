@@ -389,7 +389,7 @@ color: #FBFEF9;
 
   .parallax {
     /* The image used */
-    background-image: url('../images/TVQuoteXS.png');
+    background-image: url('/portfolio/images/TVQuoteXS.png');
   
     /* Set a specific height */
     height: 600px;
@@ -398,22 +398,22 @@ color: #FBFEF9;
     background-attachment: fixed;
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
   }
 
 
 .parallax2 {
   /* The image used */
-  background-image: url('../images/sailboatretro22EX6.png');
+  background-image: url('/portfolio/images/sailboatretro22EX6.png');
 
   /* Set a specific height */
-  height: 600px;
+  height: 500px;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto;
 }
 
 .navbar-btn {
