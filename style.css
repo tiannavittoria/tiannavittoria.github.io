@@ -10,7 +10,7 @@ h1 {
   padding: 1rem;
   text-shadow: 3px 3px #191923;
   margin: 0;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
   text-align: center;
 }
 
@@ -126,6 +126,11 @@ padding: 0;
 .badge-style {
   height: 100px;
   width: 100px;
+}
+
+.cert-style {
+  height: 200px;
+  width: 300px;
 }
 
 /* Resume Section start */
